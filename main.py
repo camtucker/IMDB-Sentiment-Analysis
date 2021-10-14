@@ -1,5 +1,6 @@
 #IMDB Review Sentimentment Predictor - Cam Tucker
 
+#Import packages
 import pandas as pd
 df_review = pd.read_csv('IMDB Dataset.csv')
 
